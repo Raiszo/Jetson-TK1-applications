@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/hellocu.dir/./hellocu_generated_hola.cu.o  -o hellocu -rdynamic /usr/local/cuda/lib/libcudart.so -Wl,-rpath,/usr/local/cuda/lib 

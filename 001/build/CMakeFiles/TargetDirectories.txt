@@ -1,0 +1,1 @@
+/home/ubuntu/Documents/Coursera/Paralle_Stuff/001/build/CMakeFiles/001.dir
